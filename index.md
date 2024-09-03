@@ -11,11 +11,11 @@ cw:
 - [1.2](1.2.md)
 - [1.3](1.3.md)
 - [1.4](1.4.md)
-- [1.5](1.5.md) cw: self-harm
-- [1.6](1.6.md) cw: self-harm
+- [1.5](1.5.md) cw: self-harm mention
+- [1.6](1.6.md) cw: self-harm mention, gore (light, very vague)
 - [1.7](1.7.md)
-- [1.8](1.8.md) cw: gore (light, very vague)
-- [1.9](1.9.md)
+- [1.8](1.8.md) 
+- [1.9](1.9.md) cw: self-harm mention (vague)
 
 
 ## PART 2
