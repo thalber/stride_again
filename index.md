@@ -1,3 +1,5 @@
+short story by [thalber](https://thalber.github.io/self/)
+
 cw:
 
 - self-harm/suicide
